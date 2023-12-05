@@ -1,0 +1,15 @@
+ls: cannot access '/user': No such file or directory
+/usr:
+bin
+games
+include
+lib
+lib32
+lib64
+libexec
+libx32
+local
+sbin
+share
+src
+This is assignment on redirection of output and appending to a file.
